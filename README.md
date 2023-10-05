@@ -1,16 +1,16 @@
 
 ## install
 <p>1- git clone https://github.com/alsa7err90/dimo_admin.git</p>
-2- composer install
-3- cp .env.example .env
-4-php artisan key:generate
-5-Set your database credentials in your .env file
-6-php artisan migrate:fresh --seed
-7-npm install
-8-npm run dev
-9-php artisan serve
+<p>2- composer install</p>
+<p>3- cp .env.example .env</p>
+<p>4-php artisan key:generate</p>
+<p>5-Set your database credentials in your .env file</p>
+<p>6-php artisan migrate:fresh --seed</p>
+<p>7-npm install</p>
+<p>8-npm run dev</p>
+<p>9-php artisan serve</p>
  
 ## Login
-email : admin@gmail.com
-password : 123456
+<p>email : admin@gmail.com</p>
+<p>password : 123456</p>
   
