@@ -1,0 +1,8 @@
+{
+    "User": true,
+    "Roles": true,
+    "Category": true,
+    "Post": true,
+    "Setting": true,
+    "Question": true
+}

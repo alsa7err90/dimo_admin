@@ -1,0 +1,10 @@
+اشياء يتم استخدمها من خارج مجلد modules
+وعند استخدام هذه الموديولز يجب اضافة هذه الاشياء في المشروع الجديد
+مثلا من helper , او components
+
+ 1 - GetMyData : from trail FilterTrait
+ 2 - components/buttons : edit - add - delete - show
+ 3 - components :  messages-noty - modal ,
+ 4- public/js/custom_admin.js لتنفيذ طلبات ajax في الاضافة والتعديل والحذف
+ 5 - component file from module Media لرفع الملفات او اختيار ملف
+ 6 - in helper function isUserAdmin و getImage
