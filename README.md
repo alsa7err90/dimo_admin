@@ -1,6 +1,6 @@
 
 ## install
-1- git clone https://github.com/alsa7err90/dimo_admin.git
+<p>1- git clone https://github.com/alsa7err90/dimo_admin.git</p>
 2- composer install
 3- cp .env.example .env
 4-php artisan key:generate
