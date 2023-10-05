@@ -9,8 +9,7 @@
 <p>7-Set your database credentials in your .env file</p>
 <p>8-php artisan migrate:fresh --seed</p>
 <p>9-npm install</p>
-<p>10-npm run dev</p>
-<p>11-php artisan serve</p>
+<p>10-php artisan serve</p>
  
 ## Login
 <p>email : admin@gmail.com</p>
